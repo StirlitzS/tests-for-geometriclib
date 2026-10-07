@@ -1,6 +1,6 @@
 name: Unit tests
 
-# Событие запуска — push
+
 on:
   push:
 
